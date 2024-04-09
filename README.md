@@ -1,2 +1,2 @@
-You can visit the project from here :
+You can access this project by clicking on this link:
 https://mordieh.github.io/Template-1-new/
