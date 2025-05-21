@@ -137,6 +137,11 @@ button {
    
 }
 
+.header-content {
+    display: flex;
+    align-items: center;
+}
+
 .section-header .section-title {
 
     font-size: 35px;
